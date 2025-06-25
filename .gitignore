@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+
+# Zip files
+*.zip
+
+# Logs
+*.log
